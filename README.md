@@ -8,5 +8,5 @@ Simple Odoo module that add partner tags to sale order form view.
 Download from marketplace:
 
 * [12.0](https://apps.odoo.com/apps/modules/12.0/partner_tags_sale_order/)
-* 13
-* 14
+* [13.0](https://apps.odoo.com/apps/modules/13.0/partner_tags_sale_order/)
+* [14.0](https://apps.odoo.com/apps/modules/14.0/partner_tags_sale_order/)
