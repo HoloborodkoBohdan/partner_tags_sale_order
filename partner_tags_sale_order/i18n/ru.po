@@ -17,7 +17,16 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: partner_tags_sale_order
+#: model_terms:ir.ui.view,arch_db:partner_tags_sale_order.view_res_partner_filter
+msgid "Has tags"
+msgstr "Есть теги"
+
+#. module: partner_tags_sale_order
 #: model:ir.model.fields,field_description:partner_tags_sale_order.field_sale_order__partner_tags
 msgid "Partner Tags"
 msgstr "Теги партнера"
 
+#. module: partner_tags_sale_order
+#: model:ir.model,name:partner_tags_sale_order.model_sale_order
+msgid "Sale Order"
+msgstr "Заказ на продажу"
