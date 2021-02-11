@@ -19,4 +19,8 @@
         "views/sale_order.xml",
         "views/res_partner.xml",
     ],
+    'images': [
+        'static/description/baner.png',
+        'static/description/partner-sales-tag.png',
+    ],
 }
