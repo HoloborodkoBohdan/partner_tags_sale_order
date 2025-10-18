@@ -6,5 +6,5 @@ class SaleOrder(models.Model):
 
     partner_tags = fields.Many2many(
         related="partner_id.category_id",
-        string="Partner Tags"
+        string="Customer Tags"
     )

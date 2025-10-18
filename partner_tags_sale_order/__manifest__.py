@@ -1,10 +1,9 @@
 # Copyright 2025 Holoborodko Bohdan
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
-
 {
-    "name": "Partner Tags in Sale Order",
-    "summary": "Show partner tags in sale order",
-    "version": "14.0.1.0.0",
+    "name": "Customer Tags in Sale Order",
+    "summary": "Show customer tags in sale order",
+    "version": "15.0.1.0.0",
     "category": "Tools",
     "website": "https://holoborodko.com.ua/?ref=partner_tags_sale_order",
     "author": "Bohdan Holoborodko",
@@ -13,7 +12,7 @@
     "installable": True,
     "depends": [
         "contacts",
-        "sale",
+        "sale_management",
     ],
     "data": [
         "views/sale_order.xml",
